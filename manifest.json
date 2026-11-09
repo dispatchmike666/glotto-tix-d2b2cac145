@@ -1,0 +1,16 @@
+{
+  "name": "Glotto",
+  "short_name": "Glotto",
+  "display": "standalone",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png?v=20261109122715",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
